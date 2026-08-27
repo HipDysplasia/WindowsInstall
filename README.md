@@ -143,26 +143,27 @@ Personal Windows 11 reinstall checklist.
 1. 7-Zip
 2. AMD Chipset Software
 3. AutoHotkey v2
-4. Better Trove Tools
+4. Better Trove Tools: https://trove.aallyn.net/
 5. Discord
 6. HandBrake
-7. Logitech G HUB
-8. Mem Reduct
+7. Logitech G HUB: https://www.logitechg.com/pl-pl/software/ghub
+8. Mem Reduct: https://memreduct.org/mem-reduct-download/
 9. Mozilla Firefox
 10. Notepad++
-11. Ninite
-12. OBS Studio
-13. Prism Launcher
+11. Ninite: https://ninite.com/
+12. OBS Studio: https://obsproject.com/download
+13. Prism Launcher: https://prismlauncher.org/
 14. qBittorrent
-15. r2modman
-16. Redragon K673RGB-PRO
-17. Revo Uninstaller
-18. Steam
-19. SteelSeries GG
-20. TranslucentTB
-21. Vencord
-22. Vocaster Hub
-23. LosslessCut
+15. r2modman: https://r2modman.com/download-latest/
+16. Redragon K673RGB-PRO: https://redragonshop.com/blogs/product-download/ucal-k673-pro-side-printed-pbt-keycaps
+17. Redragon M918-PRO: https://redragonshop.com/blogs/product-download/k1ng-max-m918-pro-1khz?variant=45992521662686
+18. Revo Uninstaller
+19. Steam
+20. SteelSeries GG: https://steelseries.com/gg/sonar/download
+21. TranslucentTB: https://github.com/TranslucentTB/TranslucentTB
+22. Vencord: https://vencord.dev/download/#windows
+23. Vocaster Hub: https://downloads.focusrite.com/focusrite/vocaster/vocaster-one
+24. LosslessCut: https://github.com/mifi/lossless-cut
 
 ## 6. Ninite
 
