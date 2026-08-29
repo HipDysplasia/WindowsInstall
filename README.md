@@ -164,6 +164,7 @@ Personal Windows 11 reinstall checklist.
 22. Vencord: https://vencord.dev/download/#windows
 23. Vocaster Hub: https://downloads.focusrite.com/focusrite/vocaster/vocaster-one
 24. LosslessCut: https://github.com/mifi/lossless-cut
+25. TMOG: https://tmog.org/
 
 ## 6. Ninite
 
