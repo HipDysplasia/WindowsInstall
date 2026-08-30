@@ -166,6 +166,7 @@ Personal Windows 11 reinstall checklist.
 24. LosslessCut: https://github.com/mifi/lossless-cut
 25. TMOG: https://tmog.org/
 26. YouTube Music: https://github.com/pear-devs/pear-desktop
+27. BlurAutoClicker: https://autoclicker.blur009.com/
 
 ## 6. Ninite
 
